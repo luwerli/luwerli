@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👩‍💻 Hi! My name is Luiza Werli Rosa and welcome to my git :)
 
-<!--
-**luwerli/luwerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Future **Cartographic Engineer** | 🐍 Student of **CS50 – Python (Harvard)**  
+🌍 Passionate about **Geotechnologies, Remote Sensing, Machine Learning, and Spatial Analysis**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 📚 Undergraduate student in **Cartographic Engineering** at UFRGS  
+- 💡 Experience with **Python** (automation, spatial analysis, computer vision)  
+- 🛰️ Projects focused on **precision agriculture and environmental monitoring**  
+- 🔎 Currently exploring:
+  - Data structures and algorithms through CS50
+  - Python GIS libraries (mrcnn, Geopandas, Rasterio, scikit-learn)
+  - Machine Learning models applied to remote sensing  
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-3A8B47?style=for-the-badge&logo=qgis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+- 🌱 **Automatic Vine Detection and Counting**  
+  Analysis using spectral indices (NDVI/NDRE) + Machine Learning applied to drone imagery.  
+
+- 🛰️ **Python Scripts for Geoprocessing**  
+  Automation of tasks in QGIS/ArcGIS, shapefile manipulation, and thematic map generation.  
+
+- 📊 **Open Data Analysis (IBGE, MapBiomas, OSM)**  
+  Spatial exploration notebooks and interactive dashboards.  
+
+---
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luwerli)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrosaluiza@gmail.com)
+
+---
+
+⭐ *Always learning, always exploring new ways to combine programming and geotechnologies!*  
