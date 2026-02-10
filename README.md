@@ -1,18 +1,18 @@
-# 👩‍💻 Hi! My name is Luiza Werli Rosa and welcome to my git :)
+# Hi! My name is Luiza Werli Rosa and welcome to my git :)
 
-🎓 Future **Cartographic Engineer** | 🐍 Student of **CS50 – Python (Harvard)**  
+🎓 **Cartographic and Surveying Engineer** | 🐍 Student of **CS50 – Python (Harvard)**  
 🌍 Passionate about **Geotechnologies, Remote Sensing, Machine Learning, and Spatial Analysis**  
 
 ---
 
 ## About Me
-- 📚 Undergraduate student in **Cartographic Engineering** at UFRGS  
-- 💡 Experience with **Python** (automation, spatial analysis, computer vision)  
+- 📚 **Cartographic and Surveying Engineer** at UFRGS  
+- 💡 Experience with **Python** (automation, spatial analysis, precision agriculture)  
 - 🛰️ Projects focused on **precision agriculture and environmental monitoring**  
 - 🔎 Currently exploring:
   - Data structures and algorithms through CS50
   - Python GIS libraries (mrcnn, Geopandas, Rasterio, scikit-learn)
-  - Machine Learning models applied to remote sensing  
+  - Machine Learning models applied to remote sensing (Random Forest) 
 
 ---
 
