@@ -12,7 +12,8 @@
 - 🔎 Currently exploring:
   - Data structures and algorithms through CS50
   - Python GIS libraries (mrcnn, Geopandas, Rasterio, scikit-learn)
-  - Machine Learning models applied to remote sensing (Random Forest) 
+  - Machine Learning models applied to remote sensing (Random Forest)
+  - Cartographic Generalization with python programming 
 
 ---
 
