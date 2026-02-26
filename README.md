@@ -32,7 +32,7 @@
   Analysis using spectral indices (NDVI/NDRE) + Machine Learning applied to drone imagery.
   https://github.com/luwerli/AgroCNN
 
-- ** Automatic Cartographic Generalization**
+- **Automatic Cartographic Generalization**
   Contour simplification considering the scale of the map
   https://github.com/luwerli/GenCar
 
