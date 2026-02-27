@@ -35,7 +35,7 @@
 
 - **Automatic Cartographic Generalization**
   Contour simplification considering the scale of the map
-  https://github.com/luwerli/GenCar
+  https://github.com/luwerli/CartGen
 
 - 🛰️ **Python Scripts for Geoprocessing**  
   Automation of tasks in QGIS/ArcGIS, shapefile manipulation, and thematic map generation.  
