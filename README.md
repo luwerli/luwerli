@@ -1,4 +1,4 @@
-# Hi! My name is Luiza welcome to my git :)
+# Hi! My name is Luiza and welcome to my git :)
 
 🎓 **Cartographic and Surveying Engineer** | 🐍 Student of **CS50 – Python (Harvard)**  
 🌍 Passionate about **Geotechnologies, Remote Sensing, Machine Learning, and Spatial Analysis**  
