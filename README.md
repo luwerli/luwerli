@@ -1,6 +1,6 @@
 # Hi! My name is Luiza and welcome to my git :)
 
-🎓 **Cartographic and Surveying Engineer** | 🐍 Student of **CS50 – Python (Harvard)**  
+🎓 **Cartographic and Surveying Engineer** | 🐍 Current Master student of Remote Sensing**  
 🌍 Passionate about **Geotechnologies, Remote Sensing, Machine Learning, and Spatial Analysis**  
 
 ---
